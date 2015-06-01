@@ -2,6 +2,7 @@
 title: Coding Blog
 email: michael.wiss@gmail.com
 description: A blog about learning to code.
+baseurl: '/coding_blog'
 url: "http://coding.me" # the base hostname & protocol for your site
 paginate: 3
 
